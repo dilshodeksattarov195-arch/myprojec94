@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartuncrypt",
+        "uuid": 255398,
+        "checksum": "3ytt6p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
